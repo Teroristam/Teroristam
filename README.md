@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Afshin nova
+- 👀 I’m interested in web programming with PHP
+- 🌱 I’m currently learning php,linux and Computer Networks
+- 📫 How to reach me : vah6iboy@gmail.com
